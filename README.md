@@ -134,7 +134,7 @@ fundamental parameters for fine-tuning the pre-padded Bert model.
 
 By experimenting with different values, we determined that the
 (in terms of accuracy) were best when setting:
-1. **Learning rate** : 3 *10-^5
+1. **Learning rate** : $3\times10^{-5}$
 2. **Training epochs** : 5
 3. **Batch size** : 32
 4. **Max Length** : 11
