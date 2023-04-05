@@ -32,8 +32,7 @@ can be found each pre-trained model and the corresponding tokenizer
 used.
 
 - https://huggingface.co/dbmdz/bert-base-italian-xxl-cased
-- https://huggingface.co/m-polignano-uniba/bert_uncased_L-12_H-
-    768_A-12_italian_alb3rt 0
+- https://huggingface.co/m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alb3rt0
 - https://huggingface.co/idb-ita/gilberto-uncased-from-camembert
 
 ## Goal and Dataset used
