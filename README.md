@@ -278,4 +278,4 @@ more specific and more related to the test data (tweets related to the
 Russian-Ukrainian conflict) and to perform a more punctual pre-processing, so as to
 so as to exclude non-useful parts of the content.
 
-#### _Disclaimer: images in the text refer to 'Relazione_BERT.pdf' file_
+#### _Disclaimer: in-text images refer to 'Relazione_BERT.pdf' file_
